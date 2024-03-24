@@ -1,5 +1,5 @@
 {
-    "name": "子機_PWM - コピー #2",
+    "name": "子機_PWM_LED",
     "description": "",
     "dependencies": {
         "core": "*",
